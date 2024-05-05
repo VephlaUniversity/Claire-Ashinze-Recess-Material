@@ -22,7 +22,7 @@ nav a {
 
 nav ul {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
     list-style: none;
 }
@@ -30,6 +30,7 @@ nav ul {
 .nav a {
     padding: 0.6rem;
     transition: 0.5ms;
+    margin: 0 1.5rem;
 }
 
 
